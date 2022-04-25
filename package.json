@@ -20,6 +20,9 @@
   },
   "author": "Carlos Costa",
   "license": "ISC",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "@parcel/packager-ts": "^2.4.1",
     "@parcel/transformer-typescript-tsc": "^2.4.1",
@@ -36,5 +39,8 @@
   "peerDependencies": {
     "@swc/helpers": "^0.3.8",
     "lit": "^2.2.2"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
