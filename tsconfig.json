@@ -1,0 +1,10 @@
+{
+  "include": ["components/**/*"],
+  "compilerOptions": {
+    "target": "es2021",
+    "strict": true,
+    "experimentalDecorators": true,
+    "isolatedModules": false,
+    "moduleResolution": "Node"
+  },
+}
