@@ -1,6 +1,6 @@
 {
   "name": "litlib",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A simple way to create your own lit library",
   "main": "dist/index.js",
   "module": "dist/module.js",
